@@ -3,19 +3,10 @@
     "name": "Minecraft MOTD Generator",
     "icons": [
         {
-            "src": "favicons/9084--favicon.ico",
-            "sizes": "64x64 32x32 24x24 16x16",
-            "type": "image/x-icon"
-        },
-        {
-            "src": "https://raw.githubusercontent.com/motd-generator/motd-generator.github.io/main/favicons/.-1731-logo192.png",
-            "type": "image/png",
-            "sizes": "192x192"
-        },
-        {
             "src": "logo512.png",
-            "type": "image/png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "type": "image/png"
+            
         }
     ],
     "start_url": ".",
