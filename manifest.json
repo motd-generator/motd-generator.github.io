@@ -3,7 +3,7 @@
     "name": "Minecraft MOTD Generator",
     "icons": [
         {
-            "src": "logo512.png",
+            "src": "https://raw.githubusercontent.com/motd-generator/motd-generator.github.io/main/logo512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
