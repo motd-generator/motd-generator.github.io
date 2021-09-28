@@ -3,12 +3,12 @@
     "name": "Minecraft MOTD Generator",
     "icons": [
         {
-            "src": "9084--favicon.ico",
+            "src": "favicons/9084--favicon.ico",
             "sizes": "64x64 32x32 24x24 16x16",
             "type": "image/x-icon"
         },
         {
-            "src": ".-1731-logo192.png",
+            "src": "favicons/.-1731-logo192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
